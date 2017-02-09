@@ -1,5 +1,5 @@
 # Extension Methods
-#.net framework 4.6 , C# 6.0
+<h3>.net framework 4.6 , C# 6.0</h3>
 
 ```C#
 namespace Extension
