@@ -19,3 +19,6 @@ namespace Extension
         }
     }
 
+```
+
+###We cann't write extensions for static classes, for example math, because we cann't create new, but we can make something <a href=http://stackoverflow.com/questions/249222/can-i-add-extension-methods-to-an-existing-static-class>like this</a>.
