@@ -21,4 +21,4 @@ namespace Extension
 
 ```
 
-####We cannot write extensions for static classes, for example math, because we cannot create new, but we can make something <a href=http://stackoverflow.com/questions/249222/can-i-add-extension-methods-to-an-existing-static-class>like this</a>.
+####We cannot write extensions for the static classes, for example math, because we cannot create new, but we can make something <a href=http://stackoverflow.com/questions/249222/can-i-add-extension-methods-to-an-existing-static-class>like this</a>.
