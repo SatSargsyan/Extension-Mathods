@@ -1,7 +1,7 @@
 # Extension Methods
 <h3>.net framework 4.6 , C# 6.0</h3>
 
-###The only thing that separates this from any other static method, is the "this" keyword in the parameter section of the method. It tells the compiler that this is an extension method for the string class, and that's actually all you need to create an extension method.
+###The only thing that separates this from any other static method, is the "this" keyword in the parameter section of the method. It tells the compiler that this is an <a href=https://msdn.microsoft.com/en-us/library/bb383977.aspx>extension method </a>for the string class, and that's actually all you need to create an extension method.
 
 ```C#
 namespace Extension
